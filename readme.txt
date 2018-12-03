@@ -8,3 +8,7 @@ I am a good man
 I am a very good man
 I am very public
 you are is beatiful
+I am a clever man
+you are pig and dog
+yyyyyyyyyyyyyyy
+yuyuyasoid kjkasd
