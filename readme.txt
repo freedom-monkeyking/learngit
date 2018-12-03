@@ -6,3 +6,5 @@ Git is very beautiful.
 Creating a new branch is quick AND simple.
 I am a good man
 I am a very good man
+I am very public
+you are is beatiful
