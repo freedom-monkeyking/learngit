@@ -4,3 +4,5 @@ Git is a distribute version control system.
 Git is free software distributed under the GPL.
 Git is very beautiful.
 Creating a new branch is quick AND simple.
+I am a good man
+I am a very good man
